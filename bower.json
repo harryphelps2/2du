@@ -1,0 +1,22 @@
+{
+  "name": "2du",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "harryphelps <harry.phelps@octoenergy.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/harryphelps2/2du",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8"
+  }
+}
